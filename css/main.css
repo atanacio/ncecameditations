@@ -562,7 +562,8 @@ a:hover .arrow p, a:hover .artist-name p{
 		width: 22%;
 	}
 	.artist-title img {
-			height:8rem;
+		width:115%;
+		height:auto;
 	}
 	.artist-opener p {
 		font-size: 2rem;
