@@ -207,7 +207,8 @@ body {
 	color: #6ba1af;
 	text-decoration: none;
 	text-transform: uppercase;
-	height:3.75vw;
+/*	height:3.75vw; */
+	display:block;
 }
 
 .artist-intro {
@@ -265,6 +266,12 @@ a:hover .arrow p, a:hover .artist-name p{
 	line-height: 1.25;
 }
 
+.footer-note {
+	font-style:italic;
+	font-size:1rem;
+	margin-bottom:1rem;
+}
+
 .credit-header {
 	font-weight: bold;
 	}
@@ -302,7 +309,7 @@ a:hover .arrow p, a:hover .artist-name p{
 	.artist-name p {
 		padding: 1rem;
 		font-size: 3.25rem;
-		height:5rem;
+		/* height:5rem; */
 	}
 	.artist-intro {
 		background-color: #6ba1af;
@@ -345,7 +352,7 @@ a:hover .arrow p, a:hover .artist-name p{
 	}
 	.artist-name p {
 		font-size: 4.5vw;
-		height:6.5vw;
+		/* height:6.5vw; */
 		top:-2.75vw;
 	}
 	.artist-intro {
