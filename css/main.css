@@ -574,7 +574,7 @@ a:hover .arrow p, a:hover .artist-name p{
 	}
 	.artist-opener p {
 		font-size: 2rem;
-		margin-top: 0;
+		padding-top: .5rem;
 		margin-right: -5rem;
 	}
 	.bio-text, .statement-text {
