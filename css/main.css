@@ -375,6 +375,13 @@ a:hover .arrow p, a:hover .artist-name p{
 	}
 }
 
+/* Main page, narrow mobile width */
+
+@media (max-width: 250px) {
+	.opener-1-B-2 ul li a {
+		word-break: normal;
+	}
+}
 /* Artist pages */
 
 .art-1 img, .art-2 img, .art-3 img, .art-4 img, .art-5 img {
